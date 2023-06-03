@@ -1,0 +1,19 @@
+/* Write your code here. */
+.back {
+  background-color: #f1f5f8;
+  background-size: cover;
+  padding: 100px;
+}
+
+.backs {
+  background-color: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+.head1 {
+  color: #cb8805;
+}
